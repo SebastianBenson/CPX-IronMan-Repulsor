@@ -43,4 +43,3 @@ while True:
             cpx.play_file('repulsor.wav')
             time.sleep(1)
             cpx.pixels.fill((black))
-    
